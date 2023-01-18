@@ -1,8 +1,55 @@
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'VT323', sans-serif;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.calc-container {
+  width: 350px;
+}
+
+.result {
+  height: 40px;
+  background-color: lightgrey;
+}
+
+.display {
+  font-weight: bold;
+}
+
+.btn-custom {
+  color: black;
+  font-weight: bold;
+  background-color: whitesmoke;
+  border-radius: 0;
+  border: 1px solid gainsboro;
+  width: 25%;
+}
+
+.btn-custom2 {
+  color: black;
+  font-weight: bold;
+  background-color: orange;
+  border-radius: 0;
+  border: 1px solid gainsboro;
+  width: 25%;
+}
+
+.btn-custom3 {
+  color: black;
+  font-weight: bold;
+  background-color: whitesmoke;
+  border-radius: 0;
+  border: 1px solid gainsboro;
+  width: 50%;
+}
+
+.box {
+  background-color: lightblue;
+  border: 1px solid blue;
+  min-height: 50px;
+  font-size: 2rem;
 }
