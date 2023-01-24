@@ -16,9 +16,11 @@ const Calculator = () => {
 
   return (
     <section>
-      <div className="container d-flex">
-        <h2 className="mt-4">Let&apos;s do some math!</h2>
-        <div className="container mt-4 calc-container">
+      <div className="container d-md-flex p-5">
+        <div className="container calc-text">
+          <h2>Let&apos;s do some math!</h2>
+        </div>
+        <div className="container calc-container">
           <div className="d-flex justify-content-end result">
             <p className="my-auto p-2 display">
               {total}
