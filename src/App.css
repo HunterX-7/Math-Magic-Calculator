@@ -7,6 +7,10 @@
   font-family: 'Orbitron', sans-serif;
 }
 
+.calc-text {
+  width: 50%;
+}
+
 .calc-container {
   width: 350px;
 }
@@ -45,6 +49,15 @@
   border-radius: 0;
   border: 1px solid gainsboro;
   width: 50%;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.quote-margin {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .box {
