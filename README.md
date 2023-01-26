@@ -65,9 +65,9 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Video Presentation <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Video presentation](#) Coming soon...
+- [Live Demo](https://hunterx-7-math-magic-calculator.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +145,7 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Deploy site
+- [ ] Add math-related quotes to generate random
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
