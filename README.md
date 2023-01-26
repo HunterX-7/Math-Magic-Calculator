@@ -171,7 +171,7 @@ I really enjoyed working on this project. If you like it show your support by gi
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Hat tip to anyone whose code was used.
+Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
