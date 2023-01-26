@@ -29,7 +29,7 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [❓ FAQ ](#faq)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -167,12 +167,11 @@ I really enjoyed working on this project. If you like it show your support by gi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+<!-- Acknowledgments -->
 
-## ❓ FAQ <a name="faq"></a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- **Where do I get API keys?**
-  - This project uses [Seat Geek](https://platform.seatgeek.com/)
+> Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
