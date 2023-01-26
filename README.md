@@ -59,7 +59,7 @@
 ### Key Features <a name="key-features"></a>
 
 - Make simple calculations
-- Display random math-related quotesDisplay random math-related quotes
+- Display random math-related quotes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,14 +133,18 @@ npm run build
 - Twitter: [@franquin07](https://twitter.com/franquin07)
 - LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-quintero-146423252/)
 
+👤 **Rashed Arman**
+
+- GitHub: [@rashedarman](https://github.com/rashedarman)
+- Twitter: [@rashedarman21](https://twitter.com/rashedarman21)
+- LinkedIn: [Rashed Arman](https://linkedin.com/in/rashedarman)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Simple calculator interfaces
-- [ ] Add more styling
 - [ ] Deploy site
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

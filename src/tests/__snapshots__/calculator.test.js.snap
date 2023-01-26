@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator page renders correctly 1`] = `
+<section>
+  <div
+    className="container d-md-flex p-5"
+  >
+    <div
+      className="container calc-text"
+    >
+      <h2>
+        Let's do some math!
+      </h2>
+    </div>
+    <div
+      className="container calc-container"
+    >
+      <div
+        className="d-flex justify-content-end result"
+      >
+        <p
+          className="my-auto p-2 display"
+        >
+          0
+        </p>
+      </div>
+      <div
+        className="d-flex"
+      >
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          %
+        </button>
+        <button
+          className="btn btn-warning btn-custom2"
+          onClick={[Function]}
+          type="button"
+        >
+          ÷
+        </button>
+      </div>
+      <div
+        className="d-flex"
+      >
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          7
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          8
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          9
+        </button>
+        <button
+          className="btn btn-warning btn-custom2"
+          onClick={[Function]}
+          type="button"
+        >
+          x
+        </button>
+      </div>
+      <div
+        className="d-flex"
+      >
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          4
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          5
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          6
+        </button>
+        <button
+          className="btn btn-warning btn-custom2"
+          onClick={[Function]}
+          type="button"
+        >
+          -
+        </button>
+      </div>
+      <div
+        className="d-flex"
+      >
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          1
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          2
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          3
+        </button>
+        <button
+          className="btn btn-warning btn-custom2"
+          onClick={[Function]}
+          type="button"
+        >
+          +
+        </button>
+      </div>
+      <div
+        className="d-flex"
+      >
+        <button
+          className="btn btn-secondary btn-custom3"
+          onClick={[Function]}
+          type="button"
+        >
+          0
+        </button>
+        <button
+          className="btn btn-secondary btn-custom"
+          onClick={[Function]}
+          type="button"
+        >
+          .
+        </button>
+        <button
+          className="btn btn-warning btn-custom2"
+          onClick={[Function]}
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+`;
