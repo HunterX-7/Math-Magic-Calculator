@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1b18997.css",
-    "main.js": "/static/js/main.64af7cf9.js",
-    "index.html": "/index.html",
-    "main.b1b18997.css.map": "/static/css/main.b1b18997.css.map",
-    "main.64af7cf9.js.map": "/static/js/main.64af7cf9.js.map"
+    "main.css": "/Math-Magic-Calculator/static/css/main.b1b18997.css",
+    "main.js": "/Math-Magic-Calculator/static/js/main.64af7cf9.js",
+    "index.html": "/Math-Magic-Calculator/index.html",
+    "main.b1b18997.css.map": "/Math-Magic-Calculator/static/css/main.b1b18997.css.map",
+    "main.64af7cf9.js.map": "/Math-Magic-Calculator/static/js/main.64af7cf9.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b18997.css",
