@@ -67,7 +67,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://hunterx-7-math-magic-calculator.onrender.com/)
+- [Live Demo](https://hunterx-7.github.io/Math-Magic-Calculator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
