@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Math-Magic-Calculator/static/css/main.b1b18997.css",
-    "main.js": "/Math-Magic-Calculator/static/js/main.64af7cf9.js",
+    "main.js": "/Math-Magic-Calculator/static/js/main.b9b63875.js",
     "index.html": "/Math-Magic-Calculator/index.html",
     "main.b1b18997.css.map": "/Math-Magic-Calculator/static/css/main.b1b18997.css.map",
-    "main.64af7cf9.js.map": "/Math-Magic-Calculator/static/js/main.64af7cf9.js.map"
+    "main.b9b63875.js.map": "/Math-Magic-Calculator/static/js/main.b9b63875.js.map"
   },
   "entrypoints": [
     "static/css/main.b1b18997.css",
-    "static/js/main.64af7cf9.js"
+    "static/js/main.b9b63875.js"
   ]
 }
