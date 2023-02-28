@@ -131,7 +131,7 @@ npm run build
 
 - GitHub: [@HunterX-7](https://github.com/HunterX-7)
 - Twitter: [@franquin07](https://twitter.com/franquin07)
-- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-quintero-146423252/)
+- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cede%C3%B1o/)
 
 👤 **Rashed Arman**
 
