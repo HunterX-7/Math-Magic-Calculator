@@ -131,13 +131,7 @@ npm run build
 
 - GitHub: [@HunterX-7](https://github.com/HunterX-7)
 - Twitter: [@franquin07](https://twitter.com/franquin07)
-- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cede%C3%B1o/)
-
-👤 **Rashed Arman**
-
-- GitHub: [@rashedarman](https://github.com/rashedarman)
-- Twitter: [@rashedarman21](https://twitter.com/rashedarman21)
-- LinkedIn: [Rashed Arman](https://linkedin.com/in/rashedarman)
+- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cedeno/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
